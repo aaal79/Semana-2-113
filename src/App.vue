@@ -25,7 +25,6 @@
 <script>
 
 import SectionMenu from './components/SectionMenu';
-import SectionBanner from './components/SectionBanner';
 import SectionApi from './components/SectionApi';
 import TeamCard from './components/TeamCard';
 import SiteFooter from './components/SiteFooter';
@@ -35,7 +34,6 @@ export default {
   name: 'App',
   components: {
     SectionMenu,
-    SectionBanner,
     SectionApi,
     TeamCard,
     SiteFooter
