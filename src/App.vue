@@ -2,10 +2,8 @@
    <div id="app">
 
     <section-menu></section-menu>
-    <section-banner></section-banner>
     <section-api></section-api>
     <team-card></team-card>
-
 
     <div>
     <p class="txt_c"> {{ titulo }} </p>
